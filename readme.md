@@ -21,10 +21,10 @@
 - js_set-of-people:
     [description](https://github.com/mate-academy/js_set-of-people),
     [solution](./js_set-of-people/setOfPeople.js)
-- js_array-of-people:
+- js_map-of-people:
     [description](https://github.com/mate-academy/js_map-of-people),
     [solution](./js_map-of-people/mapOfPeople.js)  
-- js_array-of-people:
+- js_n-for-names:
     [description](https://github.com/mate-academy/js_n-for-names),
     [solution](./js_n-for-names/nIsForName.js)  
 - js_alliterated-actors:
