@@ -12,12 +12,12 @@
  * @return {object}
  */
 function convertToObject(sourceString) {
-  return sourceString.split(';').map(el => el.split(':'))
-    .reduce((obj, current) => {
-      if (current[1] !== undefined) {
-        obj[current[0].trim()] = current[1].trim();
+  return sourceString.split(';').map(cssRule => cssRule.split(':'))
+    .reduce((res, ruleArr) => {
+      if (ruleArr[1] !== undefined) {
+        res[ruleArr[0].trim()] = ruleArr[1].trim();
       };
-      return obj;
+      return res;
     }, {});
 }
 
