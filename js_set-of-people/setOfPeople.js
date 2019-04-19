@@ -38,15 +38,15 @@
  * @return {Set}
  */
 function setOfPeople(people) {
-  let set = new Set();
-  people.forEach((el) => {
-    if (set.has(el)) {
-      set.delete(el);
+  let resultSet = new Set();
+  people.forEach((person) => {
+    if (resultSet.has(person)) {
+      resultSet.delete(person);
     } else {
-      set.add(el);
+      resultSet.add(person);
     };
   });
-  return set;
+  return resultSet;
 }
 
 module.exports = setOfPeople;
