@@ -39,12 +39,12 @@
  */
 function arrayOfPeople(people) {
   const arr = [];
-  people.forEach((el) => {
-    let index = arr.indexOf(el);
-    if (index !== -1) {
-      arr.splice(index, 1);
+  people.forEach((person) => {
+    let personIndex = arr.indexOf(person);
+    if (personIndex !== -1) {
+      arr.splice(personIndex, 1);
     } else {
-      arr.push(el);
+      arr.push(person);
     }
   });
   return arr;
