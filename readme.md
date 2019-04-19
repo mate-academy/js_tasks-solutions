@@ -15,6 +15,9 @@
 - js_style-to-object:
     [description](https://github.com/mate-academy/js_style-to-object),
     [solution](./js_style-to-object/convertToObject.js)
+- js_array-of-people:
+    [description](https://github.com/mate-academy/js_array-of-people),
+    [solution](./js_array-of-people/arrayOfPeople.js)   
 - js_alliterated-actors:
     [description](https://github.com/mate-academy/js_alliterated-actors),
     [solution](./js_alliterated-actors/alliteratedActors.js)
