@@ -20,9 +20,9 @@
 function capitalsFirst(str) {
   let upperWords = [];
   let lowerWords = [];
-  str.split(' ').forEach((el) => {
-    if (el[0].toUpperCase() !== el[0].toLowerCase()) {
-      (el[0] === el[0].toUpperCase() ? upperWords : lowerWords).push(el);
+  str.split(' ').forEach((word) => {
+    if (word[0].toUpperCase() !== word[0].toLowerCase()) {
+      (word[0] === word[0].toUpperCase() ? upperWords : lowerWords).push(el);
     }
   });
   return [...upperWords, ...lowerWords].join(' ');
