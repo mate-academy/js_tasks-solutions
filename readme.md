@@ -50,7 +50,13 @@
     [solution](./js_array-method-shift/arrayMethodShift.js)
  - js_array-method-unshift:
     [description](https://github.com/mate-academy/js_array-method-unshift),
-    [solution](./js_array-method-unshift/arrayMethodUnshift.js)   
+    [solution](./js_array-method-unshift/arrayMethodUnshift.js)
+- js_array-method-filter:
+    [description](https://github.com/mate-academy/js_array-method-filter),
+    [solution](./js_array-method-filter/arrayMethodFilter.js)
+- js_array-method-map:
+    [description](https://github.com/mate-academy/js_array-method-map),
+    [solution](./js_array-method-map/arrayMethodMap.js)
 - js_alliterated-actors:
     [description](https://github.com/mate-academy/js_alliterated-actors),
     [solution](./js_alliterated-actors/alliteratedActors.js)
