@@ -12,9 +12,6 @@
 - js_double-trouble:
     [description](https://github.com/mate-academy/js_double-trouble),
     [solution](./js_double-trouble/doubleTrouble.js)
-- js_style-to-object:
-    [description](https://github.com/mate-academy/js_style-to-object),
-    [solution](./js_style-to-object/convertToObject.js)
 - js_alliterated-actors:
     [description](https://github.com/mate-academy/js_alliterated-actors),
     [solution](./js_alliterated-actors/alliteratedActors.js)
