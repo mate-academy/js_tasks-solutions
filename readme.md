@@ -45,6 +45,12 @@
 - js_array-method-lastIndexOf:
     [description](https://github.com/mate-academy/js_array-method-lastIndexOf),
     [solution](./js_array-method-lastIndexOf/arrayMethodLastIndexOf.js)
+- js_array-method-shift:
+    [description](https://github.com/mate-academy/js_array-method-shift),
+    [solution](./js_array-method-shift/arrayMethodShift.js)
+ - js_array-method-unshift:
+    [description](https://github.com/mate-academy/js_array-method-unshift),
+    [solution](./js_array-method-unshift/arrayMethodUnshift.js)   
 - js_alliterated-actors:
     [description](https://github.com/mate-academy/js_alliterated-actors),
     [solution](./js_alliterated-actors/alliteratedActors.js)
