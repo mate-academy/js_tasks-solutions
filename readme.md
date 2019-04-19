@@ -33,6 +33,18 @@
 - js_array-method-pop:
     [description](https://github.com/mate-academy/js_array-method-pop),
     [solution](./js_array-method-pop/arrayMethodPop.js)
+- js_array-method-join:
+    [description](https://github.com/mate-academy/js_array-method-join),
+    [solution](./js_array-method-join/arrayMethodJoin.js)
+- js_array-method-includes:
+    [description](https://github.com/mate-academy/js_array-method-includes),
+    [solution](./js_array-method-includes/arrayMethodIncludes.js)
+- js_array-method-indexOf:
+    [description](https://github.com/mate-academy/js_array-method-indexOf),
+    [solution](./js_array-method-indexOf/arrayMethodIndexOf.js)
+- js_array-method-lastIndexOf:
+    [description](https://github.com/mate-academy/js_array-method-lastIndexOf),
+    [solution](./js_array-method-lastIndexOf/arrayMethodLastIndexOf.js)
 - js_alliterated-actors:
     [description](https://github.com/mate-academy/js_alliterated-actors),
     [solution](./js_alliterated-actors/alliteratedActors.js)
