@@ -60,3 +60,10 @@
 - js_array-method-map:
     [description](https://github.com/mate-academy/js_array-method-map),
     [solution](./js_array-method-map/arrayMethodMap.js)
+- js_array-method-find:
+    [description](https://github.com/mate-academy/js_array-method-find),
+    [solution](./js_array-method-find/arrayMethodFind.js)
+- js_array-method-findIndex:
+    [description](https://github.com/mate-academy/js_array-method-findIndex),
+    [solution](./js_array-method-findIndex/arrayMethodFindIndex.js)
+
