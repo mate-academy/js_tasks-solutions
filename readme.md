@@ -26,7 +26,13 @@
     [solution](./js_map-of-people/mapOfPeople.js)  
 - js_n-for-names:
     [description](https://github.com/mate-academy/js_n-for-names),
-    [solution](./js_n-for-names/nIsForName.js)  
+    [solution](./js_n-for-names/nIsForName.js)
+- js_array-method-push:
+    [description](https://github.com/mate-academy/js_array-method-push),
+    [solution](./js_array-method-push/arrayMethodPush.js)
+- js_array-method-pop:
+    [description](https://github.com/mate-academy/js_array-method-pop),
+    [solution](./js_array-method-pop/arrayMethodPop.js)
 - js_alliterated-actors:
     [description](https://github.com/mate-academy/js_alliterated-actors),
     [solution](./js_alliterated-actors/alliteratedActors.js)
