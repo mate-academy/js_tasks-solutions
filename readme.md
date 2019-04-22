@@ -27,6 +27,9 @@
 - js_n-for-names:
     [description](https://github.com/mate-academy/js_n-for-names),
     [solution](./js_n-for-names/nIsForName.js)
+- js_alliterated-actors:
+    [description](https://github.com/mate-academy/js_alliterated-actors),
+    [solution](./js_alliterated-actors/alliteratedActors.js)
 - js_array-method-push:
     [description](https://github.com/mate-academy/js_array-method-push),
     [solution](./js_array-method-push/arrayMethodPush.js)
@@ -57,6 +60,3 @@
 - js_array-method-map:
     [description](https://github.com/mate-academy/js_array-method-map),
     [solution](./js_array-method-map/arrayMethodMap.js)
-- js_alliterated-actors:
-    [description](https://github.com/mate-academy/js_alliterated-actors),
-    [solution](./js_alliterated-actors/alliteratedActors.js)
