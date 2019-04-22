@@ -66,4 +66,3 @@
 - js_array-method-findIndex:
     [description](https://github.com/mate-academy/js_array-method-findIndex),
     [solution](./js_array-method-findIndex/arrayMethodFindIndex.js)
-
