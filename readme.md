@@ -66,3 +66,12 @@
 - js_array-method-findIndex:
     [description](https://github.com/mate-academy/js_array-method-findIndex),
     [solution](./js_array-method-findIndex/arrayMethodFindIndex.js)
+- js_array-method-some:
+    [description](https://github.com/mate-academy/js_array-method-some),
+    [solution](./js_array-method-some/arrayMethodSome.js)
+- js_array-method-every:
+[   description](https://github.com/mate-academy/js_array-method-every),
+    [solution](./js_array-method-every/arrayMethodEvery.js)
+- js_array-method-reduce:
+    [description](https://github.com/mate-academy/js_array-method-reduce),
+    [solution](./js_array-method-reduce/arrayMethodReduce.js)
