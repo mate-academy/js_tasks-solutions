@@ -5,7 +5,13 @@
  */
 function applyCustomIncludes() {
   [].__proto__.includes2 = function (valueToFind, fromIndex = 0) {
-    return this.slice(fromIndex).some(el => Object.is(el, valueToFind));
+    let index = fromIndex < 0 ? this.length + fromIndex : fromIndex;
+    for (let i = index; i < this.length; i++) {
+      if (Object.is(this[i], valueToFind)) {
+        return true;
+      }
+    }
+    return false;
   };
 }
 

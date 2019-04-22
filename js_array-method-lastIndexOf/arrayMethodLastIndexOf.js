@@ -12,7 +12,7 @@ function applyCustomLastIndexOf() {
       searchIndex = this.length + fromIndex;
     }
     for (let i = searchIndex; i >= 0; i--) {
-      if (this[i] === searchElement) {
+      if (Object.is(this[i], searchElement)) {
         return i;
       }
     }
