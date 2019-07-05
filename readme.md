@@ -73,8 +73,11 @@
 [   description](https://github.com/mate-academy/js_array-method-every),
     [solution](./js_array-method-every/arrayMethodEvery.js)
 - js_array-method-reduce:
-     [description](https://github.com/mate-academy/js_array-method-reduce),
-     [solution](./js_array-method-reduce/arrayMethodReduce.js)
+    [description](https://github.com/mate-academy/js_array-method-reduce),
+    [solution](./js_array-method-reduce/arrayMethodReduce.js)
 - js_task-generate-double-function:
     [description](https://github.com/mate-academy/js_generate-double-function/),
     [solution](./js_generate-double-function/generateDoubleFunction.js)
+- js_convert-temperature:
+    [description](https://github.com/mate-academy/js_convert-temperature/),
+    [solution](./js_convert-temperature/convertTemperature.js)
