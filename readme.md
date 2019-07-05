@@ -81,3 +81,6 @@
 - js_convert-temperature:
     [description](https://github.com/mate-academy/js_convert-temperature/),
     [solution](./js_convert-temperature/convertTemperature.js)
+- js_invert-color:
+    [description](https://github.com/mate-academy/js_invert-color/),
+    [solution](./js_invert-color/invertColor.js)
